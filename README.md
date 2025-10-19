@@ -2,7 +2,7 @@
 
 The assignment was a news site I understand now, but I started making a new site for our local boat harbour
 
-My plan was to create a simple star page using grids and flexboxes 
+My plan was to create a simple start page using grids and flexboxes 
 
 I made way too much work before commiting wixh I will do for my next project. 
 
